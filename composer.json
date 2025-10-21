@@ -2,7 +2,6 @@
     "name": "aanntom/magento2",
     "description": "Antom payments suites for magento 2",
     "require": {
-        "aanntom/global-open-sdk-php": "^1.0",
         "aanntom/magento2-core": "0.1.0",
         "aanntom/magento2-frontend": "0.1.0",
         "aanntom/magento2-adminhtml": "0.1.0"
